@@ -7,7 +7,9 @@
 ## Tech used
 
 - React
-- CSS
+- CSS custom properties
+- Flexbox
+- Grid
 
 ## Lesson learned
 
